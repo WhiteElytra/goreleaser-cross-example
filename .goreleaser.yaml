@@ -87,7 +87,11 @@ archives:
   - id: golang-cross
     builds:
       - darwin-amd64
-      - linux-armhf
+      - ldarwin-arm64
+      - linux-amd64
+      - linux-arm64
+      - windows-amd64
+      - windows-arm64
     name_template: "{{ .ProjectName }}_{{ .Version }}_{{ .Os }}_{{ .Arch }}"
     format: zip
     wrap_in_directory: true
