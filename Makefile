@@ -1,4 +1,4 @@
-PACKAGE_NAME          := github.com/goreleaser/goreleaser-cross-example
+PACKAGE_NAME          := github.com/WhiteElytra/goreleaser-cross-example
 GOLANG_CROSS_VERSION  ?= v1.20.5
 
 SYSROOT_DIR     ?= sysroots

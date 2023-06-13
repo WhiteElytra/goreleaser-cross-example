@@ -1,3 +1,3 @@
-module github.com/goreleaser/goreleaser-cross-example
+module github.com/WhiteElytra/goreleaser-cross-example
 
 go 1.17
