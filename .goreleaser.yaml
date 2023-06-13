@@ -104,7 +104,7 @@ changelog:
 
 release:
   github:
-    owner: goreleaser
-    name: golang-cross-example
+    owner: WhiteElytra
+    name: goreleaser-cross-example
   prerelease: auto
   draft: false
